@@ -1,0 +1,12 @@
+Baik, berikut untuk challenge nya ya, Kak:
+
+Buat aplikasi chat simple dengan beberapa case berikut :
+1. Login aplikasi 
+2. Chat user A ke User B, User A online, User B Online
+3. Chat user A ke User B, User A online, User B Offline
+4. Chat User A ke User B, User A Offline, User B Online
+5. Chat User A ke User B, User A Offline, User B Offline
+
+Waktu yang diberikan adalah 2 hari dari hari ini, dapat dikumpulkan di hari Kamis, 18 Januari 2024.
+
+Bagaimana, Kak? apakah bersedia?
